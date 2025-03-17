@@ -9,14 +9,14 @@ hero_image_ratio: is-4by5
 ---
 
 # Ellyn LEPAGNOL
-Elève ingénieur en [préciser sa spécialité]
+Elève ingénieure en énergie et numérique
 
 
 Disponible de mi-juin à mi-juillet
 
 [ellyn.lepagnol@etu.unilasalle.fr](mailto:ellyn.lepagnol@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn](https://www.linkedin.com/in/Prenom.Nom) j'en ai pas :(
 
 Permis de prendre le bus, le vélo
 
