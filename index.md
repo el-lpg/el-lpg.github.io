@@ -5,7 +5,7 @@ description: "Voici mon CV"
 menubar: menu_bar
 hero_image: assets/imgs/20241226_003515 (1).jpg
 hero_image_alt: Ma photo
-hero_image_ratio: is-1by1
+hero_image_ratio: is-4by5
 ---
 
 # Ellyn LEPAGNOL
