@@ -1,22 +1,22 @@
 ---
 layout: promo-page
 title: Qui suis-je?
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: "Voici mon CV"
 menubar: menu_bar
 hero_image: assets/imgs/image.png
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
+# Ellyn LEPAGNOL
 Elève ingénieur en [préciser sa spécialité]
 
 
-Disponible XX mois à partir de Date
+Disponible de mi-juin à mi-juillet
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[ellyn.lepagnol@etu.unilasalle.fr](mailto:ellyn.lepagnol@etu.unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
-Permis B, voiture
+Permis de prendre le bus, le vélo
 
