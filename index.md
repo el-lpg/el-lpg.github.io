@@ -16,7 +16,7 @@ Disponible de mi-juin à mi-juillet
 
 [ellyn.lepagnol@etu.unilasalle.fr](mailto:ellyn.lepagnol@etu.unilasalle.fr)
 
-[LinkedIn]([https://www.linkedin.com/in/Prenom.Nom](https://www.linkedin.com/in/ellyn-lepagnol-7a6ba4357/)) 
+[LinkedIn](www.linkedin.com/in/ellyn-lepagnol-7a6ba4357) 
 
 Permis de prendre le bus, le vélo
 
