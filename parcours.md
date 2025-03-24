@@ -12,7 +12,7 @@ download_cv: assets/docs/CV Ellyn LEPAGNOL (3).pdf
 **Unilasalle Amiens**
 
 Elève ingénieur en énergie et renouvellement durable.
-* Cours : préciser les cours en phase avec le poste visé
+* Cours : Maths, Physique, Informatique, Anglais, Chinois, Electronique, Français..
 
 `2024 – 2025`
 **Prépa PCSI** - Lycée Louis Thuillier Amiens.
@@ -23,45 +23,39 @@ Bac spécialités Physique et Mathématiques, mention bien, Lycée Madeleine Mic
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet d’étude – Coupe de France de Robotique**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe_
+* développement d'un robot
+* modélisation avec OnShape
+* codage sur Github
 
+`2025` **Association, robotique.**
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Diréctrice de l'association_
+* Communication
+* Gestion des finances
+* Gestion de projets
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : C1 certification Cambridge, 852 pts Toic
+* LV2 Allemand : A2
+* LV3 Chinois : A1
 
 Informatique
 * Logiciels maitrisés
 * Logiciels maitrisés
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Certification Cambridge
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
-
-Loisirs 1
-* Description 
-* Description 
+Cultures étrangères :
+* Littérature
+* Musique
+Danse :
+* 12 ans d'exprérience
+  
