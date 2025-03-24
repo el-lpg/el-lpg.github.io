@@ -1,25 +1,25 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: 
 menubar: menu_bar
-download_cv: assets/docs/Template_CV.pdf
+download_cv: assets/docs/CV Ellyn LEPAGNOL (3).pdf
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2025 – 2029`
+**Unilasalle Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en énergie et renouvellement durable.
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
+`2024 – 2025`
+**Prépa PCSI** - Lycée Louis Thuillier Amiens.
+* Cours : mathématiques, physique, chimie, science de l'ingénieur, philosophie, anglais.
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac spécialités Physique et Mathématiques, mention bien, Lycée Madeleine Michelis Amiens.
 
 ## Expériences
 
